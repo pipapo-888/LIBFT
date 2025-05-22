@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstsize.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: knomura <knomura@student.42.fr>            +#+  +:+       +#+        */
+/*   By: knomura <knomura@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/09 14:13:17 by knomura           #+#    #+#             */
-/*   Updated: 2025/05/11 13:05:11 by knomura          ###   ########.fr       */
+/*   Updated: 2025/05/16 16:15:42 by knomura          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,6 @@ int	ft_lstsize(t_list *lst)
 
 // 	printf("List size: %d\n", ft_lstsize(head)); // → 2
 
-// 	// 中身の出力
 // 	t_list *current = head;
 // 	while (current != NULL)
 // 	{

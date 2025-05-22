@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memmove.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: knomura <knomura@student.42.fr>            +#+  +:+       +#+        */
+/*   By: knomura <knomura@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/25 20:27:01 by knomura           #+#    #+#             */
-/*   Updated: 2025/05/12 19:05:22 by knomura          ###   ########.fr       */
+/*   Updated: 2025/05/23 00:59:31 by knomura          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,7 +38,7 @@ void	*ft_memmove(void *dest, const void *src, size_t n)
 // int main ()
 // {
 // 	char str[] = "12345";
-// 	ft_memmove(str + 1 , str, 4);
+// 	ft_memmove(str , str + 1, 4);
 // 	printf("%s\n",str);
 
 // 	// char str2[] = "12345";

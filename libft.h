@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: knomura <knomura@student.42.fr>            +#+  +:+       +#+        */
+/*   By: knomura <knomura@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/25 15:37:52 by knomura           #+#    #+#             */
-/*   Updated: 2025/05/14 19:40:03 by knomura          ###   ########.fr       */
+/*   Updated: 2025/05/23 00:59:51 by knomura          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # include <unistd.h>
 # include <stdlib.h>
 # include <stdint.h>
+# include <stdio.h>
 
 typedef struct s_list
 {

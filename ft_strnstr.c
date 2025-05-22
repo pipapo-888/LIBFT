@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strnstr.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: knomura <knomura@student.42.fr>            +#+  +:+       +#+        */
+/*   By: knomura <knomura@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/28 19:04:11 by knomura           #+#    #+#             */
-/*   Updated: 2025/05/07 19:05:50 by knomura          ###   ########.fr       */
+/*   Updated: 2025/05/16 16:18:02 by knomura          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,6 @@ char	*ft_strnstr(const char *big, const char *little, size_t len)
 //     const char *little = " o";
 //     size_t len = 11;
 
-//     // 自作関数をテスト
 //     char *result = ft_strnstr(big, little, len);
 
 //     if (result != NULL)
@@ -45,7 +44,6 @@ char	*ft_strnstr(const char *big, const char *little, size_t len)
 //     else
 //         printf("Not Found\n");
 
-//     // 本物との比較（任意）
 //     // char *real_result = strnstr(big, little, len);
 //     // printf("Real Found: %s\n", real_result);
 

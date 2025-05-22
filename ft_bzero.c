@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bzero.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: knomura <knomura@student.42.fr>            +#+  +:+       +#+        */
+/*   By: knomura <knomura@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/25 19:08:37 by knomura           #+#    #+#             */
-/*   Updated: 2025/05/12 17:08:13 by knomura          ###   ########.fr       */
+/*   Updated: 2025/05/16 16:15:15 by knomura          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ void	ft_bzero(void *s, size_t n)
 
 //     printf("Before bzero: %s\n", str);
 
-//     ft_bzero(str + 2, 3);  // 'c', 'd', 'e' をゼロクリア
+//     ft_bzero(str + 2, 3);  // 
 
 //     printf("After  bzero: ");
 //     for (int i = 0; i < 6; i++)

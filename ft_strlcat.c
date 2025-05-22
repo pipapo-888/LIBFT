@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: knomura <knomura@student.42.fr>            +#+  +:+       +#+        */
+/*   By: knomura <knomura@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/28 16:07:57 by knomura           #+#    #+#             */
-/*   Updated: 2025/05/07 14:06:39 by knomura          ###   ########.fr       */
+/*   Updated: 2025/05/16 16:16:23 by knomura          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,7 @@ size_t	ft_strlcat(char *dest, const char *src, size_t destsize)
 // {
 // 	char dest[10] = "Hello";
 // 	char src[] = "World!";
-// 	size_t destsize = sizeof(dest);  // destのバッファサイズは10バイト
+// 	size_t destsize = sizeof(dest); 
 
 // 	size_t ppp = (dest, src, destsize);
 
